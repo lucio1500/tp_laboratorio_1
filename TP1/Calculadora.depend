@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1586824574 source:c:\users\lucio\desktop\calculadora\funcionesmatematicas.c
+	"FuncionesMatematicas.h"
+
+1586874866 c:\users\lucio\desktop\calculadora\funcionesmatematicas.h
+	<stdio.h>
+	<stdlib.h>
+	"IngresarValidar.h"
+	"MostrarDatos.h"
+
+1586873019 c:\users\lucio\desktop\calculadora\ingresarvalidar.h
+	<stdio.h>
+
+1586870993 c:\users\lucio\desktop\calculadora\mostrardatos.h
+	<stdio.h>
+
+1586871117 source:c:\users\lucio\desktop\calculadora\main.c
+	"FuncionesMatematicas.h"
+	"MostrarDatos.h"
+	"IngresarValidar.h"
+
+1586870993 source:c:\users\lucio\desktop\calculadora\mostrardatos.c
+	"MostrarDatos.h"
+	"IngresarValidar.h"
+	"FuncionesMatematicas.h"
+
+1586871561 source:c:\users\lucio\desktop\calculadora\ingresarvalidar.c
+	"IngresarValidar.h"
+	"FuncionesMatematicas.h"
+
+1586990762 source:c:\users\lucio\downloads\calculadora\funcionesmatematicas.c
+	<stdio.h>
+	<stdlib.h>
+	"IngresarValidar.h"
+	"MostrarDatos.h"
+	"FuncionesMatematicas.h"
+
+1586990762 c:\users\lucio\downloads\calculadora\funcionesmatematicas.h
+
+1586990762 c:\users\lucio\downloads\calculadora\ingresarvalidar.h
+
+1586990762 c:\users\lucio\downloads\calculadora\mostrardatos.h
+
+1586990762 source:c:\users\lucio\downloads\calculadora\ingresarvalidar.c
+	<stdio.h>
+	<stdlib.h>
+	"IngresarValidar.h"
+	"MostrarDatos.h"
+	"FuncionesMatematicas.h"
+
+1586990942 source:c:\users\lucio\downloads\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FuncionesMatematicas.h"
+	"MostrarDatos.h"
+	"IngresarValidar.h"
+
+1586990762 source:c:\users\lucio\downloads\calculadora\mostrardatos.c
+	<stdio.h>
+	<stdlib.h>
+	"MostrarDatos.h"
+	"IngresarValidar.h"
+	"FuncionesMatematicas.h"
+
+1586990762 source:c:\users\lucio\desktop\tp1\tp1\funcionesmatematicas.c
+	<stdio.h>
+	<stdlib.h>
+	"IngresarValidar.h"
+	"MostrarDatos.h"
+	"FuncionesMatematicas.h"
+
+1586990762 c:\users\lucio\desktop\tp1\tp1\ingresarvalidar.h
+
+1586990762 c:\users\lucio\desktop\tp1\tp1\mostrardatos.h
+
+1586990762 c:\users\lucio\desktop\tp1\tp1\funcionesmatematicas.h
+
+1586990762 source:c:\users\lucio\desktop\tp1\tp1\ingresarvalidar.c
+	<stdio.h>
+	<stdlib.h>
+	"IngresarValidar.h"
+	"MostrarDatos.h"
+	"FuncionesMatematicas.h"
+
+1587079613 source:c:\users\lucio\desktop\tp1\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FuncionesMatematicas.h"
+	"MostrarDatos.h"
+	"IngresarValidar.h"
+
+1586990762 source:c:\users\lucio\desktop\tp1\tp1\mostrardatos.c
+	<stdio.h>
+	<stdlib.h>
+	"MostrarDatos.h"
+	"IngresarValidar.h"
+	"FuncionesMatematicas.h"
+
