@@ -1,0 +1,131 @@
+# depslib dependency file v1.0
+1589317625 source:c:\users\lucio\desktop\sistemadeadministracion\main.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"ShowData.h"
+	"Inputs.h"
+	"Validations.h"
+
+1589310677 c:\users\lucio\desktop\sistemadeadministracion\arrayemployees.h
+
+1589317653 source:c:\users\lucio\desktop\sistemadeadministracion\arrayemployees.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"ShowData.h"
+	"Inputs.h"
+	"Validations.h"
+
+1589311962 source:c:\users\lucio\desktop\sistemadeadministracion\showdata.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"ShowData.h"
+	"Inputs.h"
+	"Validations.h"
+
+1589310475 c:\users\lucio\desktop\sistemadeadministracion\showdata.h
+
+1589311525 source:c:\users\lucio\desktop\sistemadeadministracion\inputs.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"ShowData.h"
+	"Inputs.h"
+	"Validations.h"
+
+1588789467 c:\users\lucio\desktop\sistemadeadministracion\inputs.h
+
+1588429500 c:\users\lucio\desktop\sistemadeadministracion\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Inputs.h"
+	"ArrayEmployees.h"
+
+1588429500 c:\users\lucio\desktop\sistemadeadministracion\showdata.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ShowData.h"
+	"ArrayEmployees.h"
+
+1589311708 source:c:\users\lucio\desktop\sistemadeadministracion\validations.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"ShowData.h"
+	"Inputs.h"
+	"Validations.h"
+
+1589311716 c:\users\lucio\desktop\sistemadeadministracion\validations.h
+
+1589327806 source:c:\users\lucio\desktop\tp2\tp2\arrayemployees.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"ShowData.h"
+	"Inputs.h"
+	"Validations.h"
+
+1589327806 c:\users\lucio\desktop\tp2\tp2\arrayemployees.h
+
+1589324756 c:\users\lucio\desktop\tp2\tp2\showdata.h
+
+1589318097 c:\users\lucio\desktop\tp2\tp2\inputs.h
+
+1589318097 c:\users\lucio\desktop\tp2\tp2\validations.h
+
+1589320870 source:c:\users\lucio\desktop\tp2\tp2\inputs.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"ShowData.h"
+	"Inputs.h"
+	"Validations.h"
+
+1589327968 source:c:\users\lucio\desktop\tp2\tp2\main.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"ShowData.h"
+	"Inputs.h"
+	"Validations.h"
+
+1589325122 source:c:\users\lucio\desktop\tp2\tp2\showdata.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"ShowData.h"
+	"Inputs.h"
+	"Validations.h"
+
+1589325271 source:c:\users\lucio\desktop\tp2\tp2\validations.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"ShowData.h"
+	"Inputs.h"
+	"Validations.h"
+
