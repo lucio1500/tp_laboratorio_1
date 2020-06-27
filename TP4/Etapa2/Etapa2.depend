@@ -1,0 +1,209 @@
+# depslib dependency file v1.0
+1593284807 source:c:\users\lucio\desktop\etapa2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"ShowData.h"
+	"Functions.h"
+	"UtnGenericFunctions.h"
+
+1591922137 c:\users\lucio\desktop\etapa2\linkedlist.h
+
+1593284105 c:\users\lucio\desktop\etapa2\controller.h
+
+1591996619 c:\users\lucio\desktop\etapa2\employee.h
+
+1591995602 c:\users\lucio\desktop\etapa2\parser.h
+
+1591990362 c:\users\lucio\desktop\etapa2\showdata.h
+
+1592003652 c:\users\lucio\desktop\etapa2\functions.h
+
+1592001689 c:\users\lucio\desktop\etapa2\utngenericfunctions.h
+
+1593284759 source:c:\users\lucio\desktop\etapa2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"ShowData.h"
+	"Functions.h"
+	"UtnGenericFunctions.h"
+
+1592005603 source:c:\users\lucio\desktop\etapa2\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"ShowData.h"
+	"Functions.h"
+	"UtnGenericFunctions.h"
+
+1592005664 source:c:\users\lucio\desktop\etapa2\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"ShowData.h"
+	"Functions.h"
+	"UtnGenericFunctions.h"
+
+1592005714 source:c:\users\lucio\desktop\etapa2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"ShowData.h"
+	"Functions.h"
+	"UtnGenericFunctions.h"
+
+1593284867 source:c:\users\lucio\desktop\etapa2\showdata.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"ShowData.h"
+	"Functions.h"
+	"UtnGenericFunctions.h"
+
+1592003884 source:c:\users\lucio\desktop\etapa2\utngenericfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"ShowData.h"
+	"Functions.h"
+	"UtnGenericFunctions.h"
+
+1593282920 source:c:\users\lucio\desktop\etapa2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593284892 source:c:\users\lucio\desktop\tp4\etapa2\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"ShowData.h"
+	"Functions.h"
+	"UtnGenericFunctions.h"
+
+1591922137 c:\users\lucio\desktop\tp4\etapa2\linkedlist.h
+
+1593284105 c:\users\lucio\desktop\tp4\etapa2\controller.h
+
+1591996619 c:\users\lucio\desktop\tp4\etapa2\employee.h
+
+1591995602 c:\users\lucio\desktop\tp4\etapa2\parser.h
+
+1591990362 c:\users\lucio\desktop\tp4\etapa2\showdata.h
+
+1592003652 c:\users\lucio\desktop\tp4\etapa2\functions.h
+
+1592001689 c:\users\lucio\desktop\tp4\etapa2\utngenericfunctions.h
+
+1592005603 source:c:\users\lucio\desktop\tp4\etapa2\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"ShowData.h"
+	"Functions.h"
+	"UtnGenericFunctions.h"
+
+1592005664 source:c:\users\lucio\desktop\tp4\etapa2\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"ShowData.h"
+	"Functions.h"
+	"UtnGenericFunctions.h"
+
+1593282920 source:c:\users\lucio\desktop\tp4\etapa2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1592005714 source:c:\users\lucio\desktop\tp4\etapa2\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"ShowData.h"
+	"Functions.h"
+	"UtnGenericFunctions.h"
+
+1593284867 source:c:\users\lucio\desktop\tp4\etapa2\showdata.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"ShowData.h"
+	"Functions.h"
+	"UtnGenericFunctions.h"
+
+1592003884 source:c:\users\lucio\desktop\tp4\etapa2\utngenericfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"ShowData.h"
+	"Functions.h"
+	"UtnGenericFunctions.h"
+
+1593285324 source:c:\users\lucio\desktop\tp4\etapa2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"parser.h"
+	"ShowData.h"
+	"Functions.h"
+	"UtnGenericFunctions.h"
+
